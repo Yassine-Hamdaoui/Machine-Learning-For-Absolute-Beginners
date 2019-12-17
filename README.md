@@ -1,1 +1,3 @@
 # Machine-Learning-For-Absolute-Beginners
+
+The book is short and moves along fairly well. What do you get? The author gives an overview of data science that distinguishes #machine_learning from #data_mining, #artificial_intelligence, etc. I found this useful. He gives specific examples of how machine learning is implemented in marketing and elsewhere. Different types of algorithms, some supported by humans and some not, do the machine learning or data mining or other data science. The author does not go into great depth on these #algorithms, which is consistent with his goal of providing an overview for 
